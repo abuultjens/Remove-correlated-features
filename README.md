@@ -1,6 +1,6 @@
-# Remove-correlated-features
-Removes correlated features from .csv matrix using parallel bash
+# remove-duplicate-features
+Removes duplicate features from .csv matrix using parallel bash
 
-    $ remove-correlated-features.sh [INFILE] [OUTFILE]
+    $ remove-duplicate-features.sh [INFILE] [OUTFILE]
     
     
