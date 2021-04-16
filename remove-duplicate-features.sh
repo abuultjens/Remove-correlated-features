@@ -55,5 +55,5 @@ done
 
 
 # rm tmp files		
-rm *${RAND}*
 rm -r ${RAND}
+rm *${RAND}*
